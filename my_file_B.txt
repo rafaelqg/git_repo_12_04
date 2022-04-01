@@ -1,2 +1,6 @@
-content my file B .
+<<<<<<< HEAD
+content my file B ...
+=======
+content my file B edited on branch B1!!
+>>>>>>> new_branch
 new line added on new_feature branch
