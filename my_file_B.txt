@@ -1,1 +1,1 @@
-config_file_path = "/system/config.xml"
+config_file_path = "/system/config.yml"
