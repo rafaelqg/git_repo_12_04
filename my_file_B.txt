@@ -1,2 +1,2 @@
-content my file B edited on branch B1!! 
+content my file B edited on branch B1!!!
 new line added on new_feature branch
