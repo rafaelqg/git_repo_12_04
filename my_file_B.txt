@@ -1,1 +1,1 @@
-config_file_path = "/system/config.json"
+config_file_path = "/system/config_v2.xml"
